@@ -1,0 +1,14 @@
+div{
+	width: 100%;
+	height: 25px; 
+	padding-left:20px;
+	padding-bottom: 100px;
+	padding-top: 20px;
+	padding-right: 10px;
+	font-size: 30px;
+	font-family: Arial;
+	}
+
+.red{background-color: red;
+	border: 3px solid black;}
+.yellow{background-color: yellow;}
